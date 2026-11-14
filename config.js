@@ -1,2 +1,1 @@
-// ضعي هنا رابط تطبيق الويب (Web app URL) من Apps Script بين علامتي التنصيص
-window.API_URL = "PASTE_YOUR_WEB_APP_URL_HERE";
+window.API_URL = "https://script.google.com/macros/s/AKfycbx11jQE_8MUd_aFRm2n3ukglSxox86mNjWdePPCAcAocfywrVqK0B7MeguZNOueIqHw/exec";
